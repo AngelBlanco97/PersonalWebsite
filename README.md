@@ -9,10 +9,10 @@
 </h1>
 
 
-<p align="center">
-    <a href="www.linkedin.com/in/angelblanco97"><img src="https://raw.githubusercontent.com/AngelBlanco97/PORTFOLIO/2855b11e322621dc7d83af5ec667dddc8331b922/img/linkedin.svg?token=ARSIOI2EK2MNQS2DS6SFPU3A65W3U" alt="linkedin"/></a>
+<!-- <p align="center">
+    <a href="https://www.linkedin.com/in/angelblanco97"><img src="https://raw.githubusercontent.com/AngelBlanco97/PORTFOLIO/2855b11e322621dc7d83af5ec667dddc8331b922/img/linkedin.svg?token=ARSIOI2EK2MNQS2DS6SFPU3A65W3U" alt="linkedin"/></a>
     <a href="https://www.codewars.com/users/AngelBlanco97"><img src="https://raw.githubusercontent.com/AngelBlanco97/PORTFOLIO/master/img/codewars_button_icon_151901.png?token=ARSIOI6W3DUG2VTZRFHUV2TA65XCK" alt="Codewars Courses"/></a>
-</p>
+</p> -->
 
 <p align="center">
     This is my professional website, in it I tell you a little about me so that you know me more and see my qualities. 
