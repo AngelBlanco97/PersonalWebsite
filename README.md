@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/AngelBlanco97">
-    <img alt="ABicon" src="https://raw.githubusercontent.com/AngelBlanco97/PORTFOLIO/master/img/ab.png?token=ARSIOI74PMQ3ECWWIG5T4MDA65WPO" width="192px" height="192px"/>
-  </a>
-</p>
+
 
 <h1 align="center">
   🏷 Portfolio Angel Blanco 
