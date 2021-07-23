@@ -30,9 +30,9 @@ about:
 
 ## 🤔 NEXT UPDATES (AND CHECK IT)
 
-- Add some examples of applications created
-- Link to important websites to improve the connection of my networks
-- Create a footer (omg, please)
+- Add some examples of applications created ✔️
+- Link to important websites to improve the connection of my networks ✔️
+- Create a footer (omg, please) ✔️
 - Dark Mode selector
 - Creating animated index loading page
 
