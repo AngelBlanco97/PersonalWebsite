@@ -137,3 +137,26 @@ window.sr = ScrollReveal();
         distance: '-300px'
     });
 
+    sr.reveal('.worksTitle', {
+        duration:3550,
+        origin: 'right',
+        distance: '-300px'
+    });
+
+    sr.reveal('.webDiv', {
+        duration: 3550,
+        origin: 'top',
+        distance: '-300px'
+    });
+
+    sr.reveal('.imgUtol', {
+        duration: 3550,
+        origin: 'top',
+        distance: '-300px'
+    });
+    sr.reveal('.iconUtol', {
+        duration: 3550,
+        origin: 'top',
+        distance: '-300px'
+    });
+    

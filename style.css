@@ -1,13 +1,13 @@
 /*SCROLL STYLE*/
 #newScrollStyle::-webkit-scrollbar {
-    width: 10px;
+    width: 5px;
     background-color: #F9FAFC;
 }
 
 #newScrollStyle::-webkit-scrollbar-thumb {
     padding-right: 30px;
     background: #292b2c; 
-    
+    border-radius: 4px;
 }
 
 /* NAVBAR ICON */
