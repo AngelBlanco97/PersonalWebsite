@@ -76,10 +76,10 @@
 /* BODY1 STYLE */
 
 .cuerpoPrincipal{
-    background-color: #F9FAFC;
+    background-color: #222831;
 }
 .body1 {
-    background-color: #F9FAFC;
+    background-color: #222831;
     height: auto;
     width: auto;
 }
@@ -90,6 +90,7 @@
     font-family: 'Merriweather', serif; 
     font-weight: bold;
     font-size: 400%;
+    color: #EEEEEE;
 }
 
 .body1h1 {
@@ -100,6 +101,7 @@
     font-size: 520%;
     text-decoration-style: solid;
     text-decoration-thickness: 3.5px;
+    color: #FFD369;
 }
 
 
@@ -118,17 +120,23 @@
     font-size: 125%;
     margin-top: 1px;
     margin-bottom: 1px;
+    color: #EEEEEE;
 }
 
 .divText {
     display: inline-block;
-    
+    color: #EEEEEE;
 }
 .divImagen{
     display: flex;
     align-items: center;
     justify-content: center;
 
+}
+
+.divImagen1{
+    background-color: #393E46;
+    
 }
 .me1{
     height: 50%;
@@ -171,6 +179,7 @@
     font-style: lighter;
     font-size: 70%;
     padding-top: 5%;
+    color: #EEEEEE;
 
 }
 
@@ -179,6 +188,7 @@
     font-style: lighter;
     font-size: 70%;
     padding-top: 5%;
+    color: #EEEEEE;
 }
 
 .simbologia2{
@@ -200,6 +210,8 @@
     font-style: italic;
     font-weight: bold;
     margin-top: 20%;
+    color: #FFD369;
+
 }
 
 .styleImgDog{
@@ -215,6 +227,7 @@
     font-size: 130%;
     margin-top: 10%;
     margin-left: 5px;
+    
 }
 
 .txtAboutp1 {
@@ -222,13 +235,14 @@
     font-size: 130%;
     margin-top: 2%;
     padding-left: 5px;
+    color: #EEEEEE;
 }
 .txtAboutp11 {
     font-family: 'Montserrat', sans-serif;
     font-size: 130%;
     margin-top: 2%;
     padding-left: 5px;
-    
+    color: #EEEEEE;
 }
 
 
@@ -263,14 +277,24 @@
     margin-top: 30px;
     width: 80%;
     padding-bottom: 60px;
-    filter: drop-shadow(0 34px 13px  rgba(1, 0, 0, 0.7));
 }
 
+.movilesStyle { 
+    background-color: #393E46;
+}
+
+.divImagen1 {
+    background-color:#393E46 ;
+}
+
+.solved{
+    background-color: #393E46;
+}
 
 /* SKILLS ZONE */
 
 .cuerpoSecundario {
-    background-color: #EBEEF3;
+    background-color: #393E46;
     border-top-style: solid;
     color: black;
 }
@@ -284,7 +308,6 @@
     color: white; 
     position: absolute;
     top: 10px;
-    left: px;
 }
 
 .imagenBuilding{
@@ -300,13 +323,14 @@
 }
 
 .containerLogos {
-    background-color: #EBEEF3;
+    background-color: #393E46;
 }
 
 
 .cajaXP{
     border-bottom-style: solid;
     border-width: thin;
+    color: #FFD369;
 }
 
 .quotes1{
@@ -318,8 +342,13 @@
 
 }
 
+
+.movil1{
+    background-color: #393E46;
+}
+
 .divXP{
-    background-color: #F9FAFC;
+    background-color: #393E46;
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
     display: flex;
@@ -327,8 +356,34 @@
     align-items: center;
     text-align: center;
     font-size: 90%;
+    color: #EEEEEE;
 }
 
 .ikea, .leroy{
     border-width: thin;
+    color: #EEEEEE; 
+}
+
+.worksTitle { 
+    color: #FFD369;
+}
+
+.webDiv, .imgpdf{
+    color: #EEEEEE;
+}
+
+.pdf { 
+    color: #EEEEEE;
+}
+
+.iconUtol { 
+    color: #EEEEEE;
+}
+.try{
+    color: #EEEEEE;
+}
+
+
+.divcode{
+    background-color : #393E46;
 }

@@ -1,11 +1,12 @@
-/* next features
 
-1. DARK MODE COLOR PALLET (IN PRODUCTION)
+const btn = document.getElementById("chk");
 
-    BACKGROUND #222831
-    BACKGROUND2 #393E46
-    PRIMARY COLOR #FFD369
-    SECUNDARY COLOR #EEEEEE
+const theme = document.getElementById("theme-selector");
 
-    MENU BOTTOM?
-*/
+btn.addEventListener("click", function() {
+    if (theme.getAttribute("href") == "light-theme.css") {
+        theme.href = "dark-theme.css";
+    } else {
+        theme.href = "light-theme.css";
+    }
+});
