@@ -33,6 +33,6 @@ about:
 - Add some examples of applications created ✔️
 - Link to important websites to improve the connection of my networks ✔️
 - Create a footer (omg, please) ✔️
-- Dark Mode selector
+- Dark Mode selector ✔️
 - Creating animated index loading page
 
